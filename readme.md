@@ -14,7 +14,7 @@ You can also set a precedent value for allowing by setting ``forceperms.default`
 
 Internally this is implemented by checking if a permission is set for the specified command. \
 If it is, great, use that as our result. \
-If it is not, use the ``forceperms.default`` result. \
+If it is not, use the ``forceperms.default`` result.
 
 ## Possible configurations
 
