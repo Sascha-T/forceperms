@@ -32,4 +32,4 @@ Each allowed command: \
 ``forceperms.commands.ALLOWEDCOMMAND`` commands set to ``true``
 #### This configuration will allow only the allowed commands to run.
 
-# Warning: Please try to avoid using this mod unless you have no other choice. We do not take responsibility for you or your users' actions.
+# Warning: Please try to avoid using this mod unless you have no other choice. We do not take responsibility for your or your users' actions.
